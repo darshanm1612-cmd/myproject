@@ -44,4 +44,4 @@ http://localhost:8001
 ![Console](screenshots/jenkins-console-output.png)
 
 ### Github webhook
-! [Github](screenshots/github-webhook.png) 
+![Github](screenshots/github-webhook.png) 
